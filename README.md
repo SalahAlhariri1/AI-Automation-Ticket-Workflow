@@ -1,5 +1,7 @@
 # AI Customer Support Workflow Demo
 
+[Live Demo](https://ai-automation-ticket-workflow.vercel.app/)
+
 A polished Solutions Engineer portfolio demo that shows how AI can turn unstructured customer support tickets into structured workflow outputs for a SaaS support organization.
 
 ## Project Overview
